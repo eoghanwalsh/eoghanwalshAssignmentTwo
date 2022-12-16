@@ -1,0 +1,24 @@
+<object-stream>
+  <list>
+    <models.Developer>
+      <developerName>Kevin Smith</developerName>
+      <developerWebsite>facebook</developerWebsite>
+    </models.Developer>
+    <models.Developer>
+      <developerName>Dan Spare</developerName>
+      <developerWebsite>twitter</developerWebsite>
+    </models.Developer>
+    <models.Developer>
+      <developerName>mike jackson</developerName>
+      <developerWebsite>reddit</developerWebsite>
+    </models.Developer>
+    <models.Developer>
+      <developerName>Frank dan#</developerName>
+      <developerWebsite>eicuekchjwldq</developerWebsite>
+    </models.Developer>
+    <models.Developer>
+      <developerName>idceicvboqlwj</developerName>
+      <developerWebsite>jdilcubqw dhq.</developerWebsite>
+    </models.Developer>
+  </list>
+</object-stream>
